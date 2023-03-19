@@ -1,4 +1,4 @@
-
+```markdown
 hey! I am a developer with background on computational physics. I am mainly into:
 
   - 📓 Python, C/C++, Go, TypeScript, SQL, Lua, and other languages. 
@@ -6,3 +6,4 @@ hey! I am a developer with background on computational physics. I am mainly into
   - ⚡️ High-performance, distributed and parallel computing.
   - 🔮 Some frontend dev with React, NextJS, and sass.
   - 🐲 (some game dev with OpenGL, SDL and Lua in my spare time).
+```
